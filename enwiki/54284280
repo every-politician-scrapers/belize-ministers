@@ -1,0 +1,105 @@
+{
+  "title": "Julius Espat",
+  "pageID": 54284280,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Belize City",
+    "People's United Party politicians",
+    "Members of the Belize House of Representatives for Cayo South",
+    "Belizean architects",
+    "Government ministers of Belize"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julius Espat (born February, 1968) is a Belizean Politician who was born in Belize City.",
+              "links": [
+                {
+                  "text": "Belizean",
+                  "type": "internal",
+                  "page": "Belize"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belize City"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Julius Espat"
+                ]
+              }
+            },
+            {
+              "text": "He was first elected as Cayo South area representative on March 7, 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cayo South"
+                }
+              ]
+            },
+            {
+              "text": "and was reelected in November 2015."
+            },
+            {
+              "text": "He is currently the Chairman of the Public Accounts Committee (PAC) and represents Cayo South area as the Honorable Julius Espat in the Belize House of Representatives.",
+              "links": [
+                {
+                  "text": "Belize House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Belize)"
+                }
+              ]
+            },
+            {
+              "text": "Julius has recently been chosen to be the Minister Of Infrastructure Development And Housing in Belize on November 13, 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister Of Infrastructure Development And Housing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belize"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belizean Politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "November 2018",
+          "template": "autobiography"
+        },
+        {
+          "date": "October 2017",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pup.org.bz/member/hon-julius-espat/",
+          "title": "Hon. Julius Espat – PUP – People's United Party",
+          "website": "www.pup.org.bz",
+          "language": "en-US",
+          "access-date": "2017-06-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

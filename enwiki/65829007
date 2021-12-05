@@ -1,0 +1,226 @@
+{
+  "title": "Cordel Hyde",
+  "pageID": 65829007,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "People's United Party politicians",
+    "Louisiana State University alumni",
+    "21st-century politicians",
+    "Belizean lawyers",
+    "Members of the House of Representatives (Belize)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cordel Hyde (born 20 August 1973) is a Belizean politician.",
+              "links": [
+                {
+                  "text": "Belizean",
+                  "type": "internal",
+                  "page": "Belize"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Cordel Hyde"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Deputy Prime Minister of Belize since 16 November 2020.",
+              "formatting": {
+                "bold": [
+                  "Deputy Prime Minister of Belize"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the People's United Party, he has represented the Lake Independence constituency in the Belize House since 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's United Party"
+                },
+                {
+                  "text": "Lake Independence",
+                  "type": "internal",
+                  "page": "Lake Independence (Belize House constituency)"
+                },
+                {
+                  "text": "constituency",
+                  "type": "internal",
+                  "page": "Constituencies of Belize"
+                },
+                {
+                  "text": "Belize House",
+                  "type": "internal",
+                  "page": "House of Representatives (Belize)"
+                }
+              ]
+            },
+            {
+              "text": "He currently serves as deputy leader of the People's United Party."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belizean politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1973",
+          "month": "8",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Cordel Hyde"
+          },
+          "term_start2": {
+            "text": "28 August 1998"
+          },
+          "party": {
+            "text": "People's United Party",
+            "links": [
+              {
+                "text": "People's United Party",
+                "type": "internal",
+                "page": "People's United Party (Belize)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mark King",
+            "links": [
+              {
+                "text": "Mark King",
+                "type": "internal",
+                "page": "Mark King (Belizean politician)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Hubert Elrington",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hubert Elrington"
+              }
+            ]
+          },
+          "term_end2": {
+            "text": "8 February 2008"
+          },
+          "office2": {
+            "text": "Member of the Belize House of Representatives for Lake Independence",
+            "links": [
+              {
+                "text": "Belize House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Belize)"
+              },
+              {
+                "text": "Lake Independence",
+                "type": "internal",
+                "page": "Lake Independence (Belize House constituency)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mark King",
+            "links": [
+              {
+                "text": "Mark King",
+                "type": "internal",
+                "page": "Mark King (Belizean politician)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 November 2015"
+          },
+          "office1": {
+            "text": "Member of the Belize House of Representatives for Lake Independence",
+            "links": [
+              {
+                "text": "Belize House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Belize)"
+              },
+              {
+                "text": "Lake Independence",
+                "type": "internal",
+                "page": "Lake Independence (Belize House constituency)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 20, 1973"
+          },
+          "nationality": {
+            "text": "Belizean",
+            "links": [
+              {
+                "text": "Belizean",
+                "type": "internal",
+                "page": "Belize"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "St. John's College",
+            "links": [
+              {
+                "text": "St. John's College",
+                "type": "internal",
+                "page": "St. John's College, Belize"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "P.U.P. Area Representatives Sworn In as Cabinet Ministers {{!}} Channel5Belize.com",
+          "url": "https://edition.channel5belize.com/archives/211660",
+          "access-date": "2020-11-19",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-10-04",
+          "title": "Cordel Hyde officially sworn in as Standard Bearer for Lake Independence",
+          "url": "https://www.breakingbelizenews.com/2020/10/04/cordel-hyde-officially-sworn-in-as-standard-bearer-for-lake-independence/",
+          "url-status": "live",
+          "access-date": "2020-11-13",
+          "website": "Breaking Belize News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "You can't attack Petillo's cause, says Hon. Cordel Hyde {{!}} Amandala Newspaper",
+          "url": "https://amandala.com.bz/news/you-cant-attack-petillos-cause-says-hon-cordel-hyde/",
+          "access-date": "2020-11-13",
+          "website": "amandala.com.bz",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
