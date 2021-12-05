@@ -7,17 +7,36 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('h4').text.tidy.delete_prefix('Hon. ')
     end
 
     def position
-      noko.css('.position').text.tidy
+      return unless role
+
+      role.split(/& (?=Minister)/).map(&:tidy)
+    end
+
+    private
+
+    def person_extras
+      noko.css('h5').text.tidy
+    end
+
+    def role
+      return 'Speaker' if person_extras == 'Speaker'
+
+      # anyone who's a Minister has that part in brackets
+      person_extras[/\(([^)]+)\)/, 1]
     end
   end
 
   class Members
+    def member_items
+      super.select(&:position)
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.title').map(&:parent)
     end
   end
 end
