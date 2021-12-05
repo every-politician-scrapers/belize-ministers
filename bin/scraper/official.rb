@@ -7,13 +7,16 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('h4').text.tidy.delete_prefix('Hon. ')
+      Name.new(
+        full:     noko.css('h4').text.tidy,
+        prefixes: %w[Dr Hon]
+      ).short
     end
 
     def position
       return unless role
 
-      role.split(/& (?=Minister)/).map(&:tidy)
+      role.split(/[&,] (?=Minister)/).map(&:tidy)
     end
 
     private
