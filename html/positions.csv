@@ -1,6 +1,8 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q34517433,Monarch of Belize,Q242,Q242,,,,,,,
 Q1281030,Governor-General of Belize,Q242,Q242,,,1981-09-21,,,,Governor-General of Belize
+Q862638,Prime Minister of Belize,Q242,Q242,,Q30100540,1981-09-12,,Q38780172,,
+Q109930894,Deputy Prime Minister of Belize,Q242,Q242,,,,,,,
 Q109930914,"Minister of Agriculture, Food Security, & Enterprise",Q242,Q242,,,,,,,
 Q109931002,Minister of The Blue Economy & Civil Aviation,Q242,Q242,,,,,,,
 Q109930940,"Minister of Education, Culture, Science & Technology",Q242,Q242,,,,,,,
