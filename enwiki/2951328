@@ -66,7 +66,7 @@
       ],
       "templates": [
         {
-          "description": "5th Prime minister of Belize",
+          "description": "Prime Minister of Belize since 2020",
           "template": "short description"
         },
         {
@@ -90,6 +90,9 @@
           },
           "image": {
             "text": "Presidente Giammattei se reúne con el Primer Ministro de Belice (Briceño) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Briceño in 2021"
           },
           "name": {
             "text": "John Antonio Briceño"
