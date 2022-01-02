@@ -67,47 +67,6 @@
           "date": "November 2021",
           "template": "lead too short"
         }
-      ],
-      "references": [
-        {
-          "url": "http://edition.channel5belize.com/archives/60870",
-          "title": "Bar Association votes quash Attorney General Bernard Pitts",
-          "work": "News 5 Belize",
-          "date": "2011-09-15",
-          "accessdate": "2012-11-08",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.socialsecurity.org.bz/press_releases/sept_1_2006.htm",
-          "title": "Media Release: New Chairman of the Social Security Board of Directors Appointed",
-          "publisher": "Belize Social Security Board",
-          "date": "2006-09-01",
-          "accessdate": "2012-11-08",
-          "archive-url": "https://archive.today/20121203195453/http://www.socialsecurity.org.bz/press_releases/sept_1_2006.htm",
-          "archive-date": "2012-12-03",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://photos.state.gov/libraries/belize/231771/PDFs/list-of-attorn40kb.pdf",
-          "title": "List of Attorneys",
-          "publisher": "Embassy of the United States",
-          "location": "Belmopan City",
-          "accessdate": "2012-11-07",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.7newsbelize.com/sstory.php?nid=7155",
-          "title": "Michel Chebat Is New Social Security Board Chairman",
-          "work": "7 News Belize",
-          "date": "2006-08-31",
-          "accessdate": "2012-11-07",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
