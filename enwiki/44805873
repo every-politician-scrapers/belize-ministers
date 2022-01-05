@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Michelle Arana (born 1969) is a Belizean judge.",
+              "text": "Michelle Arana, OBE (born 1969) is a Belizean judge.",
               "links": [
                 {
                   "text": "Belizean",
@@ -37,7 +37,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Michelle Arana"
+                  "Michelle Arana, OBE"
                 ]
               }
             }
