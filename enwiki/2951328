@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "John Antonio \"Johnny\" Briceño (born 17 July 1960) is a Belizean politician who is the 5th and current Prime Minister of Belize since 12 November 2020, and the leader of the People's United Party (PUP) since 2016.",
+              "text": "John Antonio Briceño (born 17 July 1960) is a Belizean politician who is the 5th and current Prime Minister of Belize since 12 November 2020, and the leader of the People's United Party (PUP) since 2016.",
               "links": [
                 {
                   "text": "Belizean",
@@ -38,7 +38,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "John Antonio \"Johnny\" Briceño"
+                  "John Antonio Briceño"
                 ]
               }
             },
@@ -95,7 +95,7 @@
             "text": "Briceño in 2021"
           },
           "name": {
-            "text": "John Antonio Briceño"
+            "text": "Johnny Briceño"
           },
           "office": {
             "text": "7th Prime Minister of Belize",
@@ -214,6 +214,33 @@
           "term_start2": {
             "text": "30 June 1993"
           },
+          "office3": {
+            "text": "Chairman of the Caribbean Community",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Caribbean Community"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Secretary-General"
+          },
+          "1namedata3": {
+            "text": "Carla Barnett"
+          },
+          "predecessor3": {
+            "text": "Gaston Browne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gaston Browne"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 January 2022"
+          },
           "birth_place": {
             "text": "Orange Walk Town, British Honduras\n(now Belize)",
             "links": [
@@ -237,8 +264,8 @@
           "birth_name": {
             "text": "John Antonio Briceño"
           },
-          "relations": {
-            "text": "Elijio Briceño (father)",
+          "father": {
+            "text": "Elijio Briceño",
             "links": [
               {
                 "type": "internal",
@@ -247,13 +274,7 @@
             ]
           },
           "spouse": {
-            "text": "Rossana Briceño",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rossana Briceño"
-              }
-            ]
+            "text": "Rossana Briceño"
           },
           "children": {
             "text": "3",
