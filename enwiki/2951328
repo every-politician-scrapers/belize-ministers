@@ -70,6 +70,10 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1960",
           "month": "7",
           "day": "17",
@@ -98,7 +102,7 @@
             "text": "Johnny Briceño"
           },
           "office": {
-            "text": "7th Prime Minister of Belize",
+            "text": "5th Prime Minister of Belize",
             "links": [
               {
                 "type": "internal",
@@ -118,7 +122,7 @@
               }
             ]
           },
-          "governor_general": {
+          "governor-general": {
             "text": "Sir Colville Young Stuart Leslie (acting) Froyla Tzalam",
             "links": [
               {
@@ -213,6 +217,9 @@
           },
           "term_start2": {
             "text": "30 June 1993"
+          },
+          "predecessor2": {
+            "text": "Leopold Briceño"
           },
           "office3": {
             "text": "Chairman of the Caribbean Community",
