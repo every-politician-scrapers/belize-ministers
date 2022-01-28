@@ -11,6 +11,7 @@
     "Supreme Court of Belize justices",
     "Belizean lawyers",
     "Ball State University alumni",
+    "Officers of the Order of the British Empire",
     "University of the West Indies alumni",
     "Women chief justices"
   ],
@@ -25,6 +26,11 @@
               "text": "Michelle Arana, OBE (born 1969) is a Belizean judge.",
               "links": [
                 {
+                  "text": "OBE",
+                  "type": "internal",
+                  "page": "Order of the British Empire"
+                },
+                {
                   "text": "Belizean",
                   "type": "internal",
                   "page": "Belize"
@@ -37,7 +43,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Michelle Arana, OBE"
+                  "Michelle Arana"
                 ]
               }
             }
