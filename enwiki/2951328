@@ -93,13 +93,13 @@
             ]
           },
           "image": {
-            "text": "Presidente Giammattei se reúne con el Primer Ministro de Belice (Briceño) (cropped).jpg"
+            "text": "Prime Minister John Briceno of Belize.jpg"
           },
           "caption": {
-            "text": "Briceño in 2021"
+            "text": "Briceño in 2020"
           },
           "name": {
-            "text": "Johnny Briceño"
+            "text": "John Briceño"
           },
           "office": {
             "text": "5th Prime Minister of Belize",
@@ -123,16 +123,8 @@
             ]
           },
           "governor-general": {
-            "text": "Sir Colville Young Stuart Leslie (acting) Froyla Tzalam",
+            "text": "Froyla Tzalam",
             "links": [
-              {
-                "type": "internal",
-                "page": "Colville Young"
-              },
-              {
-                "type": "internal",
-                "page": "Stuart Leslie"
-              },
               {
                 "type": "internal",
                 "page": "Froyla Tzalam"
@@ -281,11 +273,26 @@
             ]
           },
           "spouse": {
-            "text": "Rossana Briceño"
+            "text": "Her Excellency Rossana Briceño, First Lady of Belize & Special Envoy for the Development of Families and Children",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Her Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "Belize"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "First Lady of Belize",
+                "Special Envoy for the Development of Families and Children"
+              ]
+            }
           },
           "children": {
-            "text": "3",
-            "number": 3
+            "text": "David Briceño, John Briceño Jr. & Andre Briceño"
           },
           "party": {
             "text": "People's United Party",
