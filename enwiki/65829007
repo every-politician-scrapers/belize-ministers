@@ -73,7 +73,6 @@
       "templates": [
         {
           "description": "Belizean politician",
-          "bot": "PearBOT 5",
           "template": "short description"
         },
         {
@@ -86,6 +85,48 @@
       ],
       "infoboxes": [
         {
+          "image": {
+            "text": "Deputy PM Cordel Hyde 2022.jpg"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Belize",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Belize"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Johnny Briceño",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Johnny Briceño"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Hugo Patt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugo Patt"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 November 2020- present"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Cordel Hyde"
           },
