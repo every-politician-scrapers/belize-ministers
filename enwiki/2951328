@@ -9,7 +9,8 @@
     "Prime Ministers of Belize",
     "Finance ministers of Belize",
     "Government ministers of Belize",
-    "Members of the Belize House of Representatives for Orange Walk Central"
+    "Members of the Belize House of Representatives for Orange Walk Central",
+    "Recipients of the Order of Brilliant Star"
   ],
   "sections": [
     {
@@ -91,6 +92,9 @@
                 "page": "The  Honourable"
               }
             ]
+          },
+          "image": {
+            "text": "PM_John_Briceno.jpg"
           },
           "name": {
             "text": "Johnny Briceño"
