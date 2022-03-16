@@ -1,16 +1,16 @@
 id,name,relationship,relative,relativename
-Q335215,Said Musa,child,Q16213341,Yasser Musa
-Q335215,Said Musa,child,Q58896061,Kareem Musa
-Q57701,Dean Barrow,child,Q1346832,Shyne
-Q57701,Dean Barrow,spouse,Q23416186,Kim Simplis Barrow
-Q58896061,Kareem Musa,father,Q335215,Said Musa
-Q6266369,Johnny Briceño,father,Q85852299,Elijio Briceño
-Q86003400,Elizabeth Zabaneh,mother,Q21066738,Jane Ellen Usher
-Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
-Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
-Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
-Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
-Q9682,Elizabeth II,father,Q280856,George VI
-Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
-Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
-Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Q335215,Said Musa,child,Q16213341,
+Q335215,Said Musa,child,Q58896061,
+Q57701,Dean Barrow,child,Q1346832,
+Q57701,Dean Barrow,spouse,Q23416186,
+Q58896061,Kareem Musa,father,Q335215,
+Q6266369,Johnny Briceño,father,Q85852299,
+Q86003400,Elizabeth Zabaneh,mother,Q21066738,
+Q9682,Elizabeth II,child,Q151754,
+Q9682,Elizabeth II,child,Q153330,
+Q9682,Elizabeth II,child,Q154920,
+Q9682,Elizabeth II,child,Q43274,
+Q9682,Elizabeth II,father,Q280856,
+Q9682,Elizabeth II,mother,Q10633,
+Q9682,Elizabeth II,sibling,Q153815,
+Q9682,Elizabeth II,spouse,Q80976,
