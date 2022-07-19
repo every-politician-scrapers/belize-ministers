@@ -1,0 +1,186 @@
+{
+  "title": "Julius Espat",
+  "pageID": 54284280,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "People from Belize City",
+    "People's United Party politicians",
+    "Members of the Belize House of Representatives for Cayo South",
+    "Belizean architects",
+    "Government ministers of Belize"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julius Espat (born February, 1968) is a Belizean Politician who was born in Belize City.",
+              "links": [
+                {
+                  "text": "Belizean",
+                  "type": "internal",
+                  "page": "Belize"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belize City"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Julius Espat"
+                ]
+              }
+            },
+            {
+              "text": "He was first elected as Cayo South area representative on March 7, 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cayo South"
+                }
+              ]
+            },
+            {
+              "text": "and was reelected in November 2015."
+            },
+            {
+              "text": "He is currently the Chairman of the Public Accounts Committee (PAC) and represents Cayo South area as the Honorable Julius Espat in the Belize House of Representatives.",
+              "links": [
+                {
+                  "text": "Belize House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Belize)"
+                }
+              ]
+            },
+            {
+              "text": "Julius has recently been chosen to be the Minister Of Infrastructure Development And Housing in Belize on November 13, 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister Of Infrastructure Development And Housing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belize"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Belizean Politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "November 2018",
+          "template": "autobiography"
+        },
+        {
+          "date": "October 2017",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pup.org.bz/member/hon-julius-espat/",
+          "title": "Hon. Julius Espat – PUP – People's United Party",
+          "website": "www.pup.org.bz",
+          "language": "en-US",
+          "access-date": "2017-06-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Julius East went to school at St. John’s College Sixth form before pursuing further education at the University of San Carlos in Guatemala."
+            },
+            {
+              "text": "He graduated with a Degree in Architecture and immediately returned home to Belize."
+            },
+            {
+              "text": "In 1993 he opened his own business, Strukture Architects which remains one of the foremost architecture firms in the country."
+            },
+            {
+              "text": "Following his determination to serve his people in a greater capacity, Espat entered the world of politics in 2009 as advisor in the People’s United Party, also acting as the Secretary-General and overseeing the affairs of the Secretariat."
+            },
+            {
+              "text": "He has served as Treasurer and Co-Campaign Manager and is currently the Area Representative of Cayo South, which he won in landslide victories in 2012 and 2015."
+            },
+            {
+              "text": "He is the Regional Deputy Party Leader for the West."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since first elected, Honorable Julius Espat has worked to activate the Public Accounts Committee, which has been dormant since the Independence of Belize in September 21, 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independence of Belize"
+                }
+              ]
+            },
+            {
+              "text": "All the previous Chairmen of the PAC never held a meeting."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Honorable Julius Espat is well known for taking a very consistent role in his assistance and representation of the Cayo South constituency."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.plustvbelize.com/public-accounts-committee-needs-changes-for-future-excellent-governments-hon-julius-espat/",
+          "title": "Public Accounts Committee Needs Changes for Future Excellent Governments: Hon. Julius Espat",
+          "date": "2013-11-18",
+          "work": "Belize News {{!}} PlusTV Belize",
+          "access-date": "2017-06-12",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "belize-bio-stub"
+        }
+      ]
+    }
+  ]
+}
