@@ -5,6 +5,7 @@
     "1973 births",
     "Living people",
     "People's United Party politicians",
+    "Deputy Prime Ministers of Belize",
     "Members of the Belize House of Representatives for Lake Independence",
     "Belizean lawyers",
     "21st-century Belizean politicians",
@@ -34,11 +35,12 @@
             },
             {
               "text": "He is the current Deputy Prime Minister of Belize since 16 November 2020.",
-              "formatting": {
-                "bold": [
-                  "Deputy Prime Minister of Belize"
-                ]
-              }
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Belize"
+                }
+              ]
             },
             {
               "text": "He is a member of the People's United Party, he has represented the Lake Independence constituency in the Belize House since 2015.",

@@ -7,6 +7,7 @@
     "People from Orange Walk Town",
     "People's United Party politicians",
     "Prime Ministers of Belize",
+    "Deputy Prime Ministers of Belize",
     "Finance ministers of Belize",
     "Government ministers of Belize",
     "Members of the Belize House of Representatives for Orange Walk Central",
@@ -56,6 +57,11 @@
             {
               "text": "From 1998 to 2007, he served as Deputy Prime Minister under Prime Minister Said Musa.",
               "links": [
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Belize"
+                },
                 {
                   "type": "internal",
                   "page": "Said Musa"
