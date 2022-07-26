@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Belize)",
+        "Lake Independence (Belize House constituency)"
+      ],
+      "stated_as": "Member of the Belize House of Representatives for Lake Independence"
+    },
+    "P580": "1998-08-28",
+    "P1365": {
+      "links": [
+        "Hubert Elrington"
+      ],
+      "stated_as": "Hubert Elrington"
+    },
+    "P582": "2008-02-08",
+    "P1366": {
+      "links": [
+        "Mark King (Belizean politician)"
+      ],
+      "stated_as": "Mark King"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Belize)",
+        "Lake Independence (Belize House constituency)"
+      ],
+      "stated_as": "Member of the Belize House of Representatives for Lake Independence"
+    },
+    "P580": "2015-11-04",
+    "P1365": {
+      "links": [
+        "Mark King (Belizean politician)"
+      ],
+      "stated_as": "Mark King"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Belize"
+      ],
+      "stated_as": "Deputy Prime Minister of Belize"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+        "Hugo Patt"
+      ],
+      "stated_as": "Hugo Patt"
+    }
+  }
+]
