@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Belize)",
+        "Orange Walk Central"
+      ],
+      "stated_as": "Member of the Belize House of Representatives for Orange Walk Central"
+    },
+    "P580": "1993-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Leopold Briceño"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Belize)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2016-01-31",
+    "P1365": {
+      "links": [
+        "Francis Fonseca"
+      ],
+      "stated_as": "Francis Fonseca"
+    },
+    "P582": "2020-11-12",
+    "P1366": {
+      "links": [
+        "Patrick Faber (politician)"
+      ],
+      "stated_as": "Patrick Faber"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Belize"
+      ],
+      "stated_as": "5th Prime Minister of Belize"
+    },
+    "P580": "2020-11-12",
+    "P1365": {
+      "links": [
+        "Dean Barrow"
+      ],
+      "stated_as": "Dean Barrow"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Caribbean Community"
+      ],
+      "stated_as": "Chairman of the Caribbean Community"
+    },
+    "P580": "2022-01-01",
+    "P1365": {
+      "links": [
+        "Gaston Browne"
+      ],
+      "stated_as": "Gaston Browne"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Chan Santokhi"
+      ],
+      "stated_as": "Chan Santokhi"
+    }
+  }
+]

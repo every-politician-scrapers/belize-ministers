@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Belize)",
+        "Freetown (Belize House constituency)"
+      ],
+      "stated_as": "Member of the Belize House of Representatives for Freetown"
+    },
+    "P580": "2003-03-05",
+    "P1365": {
+      "links": [
+        "Jorge Espat"
+      ],
+      "stated_as": "Jorge Espat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (Belize)"
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2011-11-03",
+    "P1365": {
+      "links": [
+        "Johnny Briceño"
+      ],
+      "stated_as": "Johnny Briceño"
+    },
+    "P582": "2016-01-31",
+    "P1366": {
+      "links": [
+        "Johnny Briceño"
+      ],
+      "stated_as": "Johnny Briceño"
+    }
+  }
+]
